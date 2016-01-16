@@ -10,6 +10,7 @@ https://github.com/hushicai/echarts-server-image.git
 cd echarts-server-image
 npm install
 node phantom/echarts.js
+node phantom/echarts_batch.js test.json
 ```
 
 # 示例

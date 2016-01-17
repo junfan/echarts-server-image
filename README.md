@@ -1,6 +1,6 @@
 # echarts-server-image
 
-echarts配合phantomjs，在服务端生成图片。
+echarts配合phantomjs，在服务端生成图片，支持批量生成图片。
 
 # Usage
 
